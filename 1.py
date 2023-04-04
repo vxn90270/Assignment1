@@ -1,4 +1,4 @@
-ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24,25,26]
 
 # sort the list and find the min and max age
 for n in range(len(ages)-1, 0, -1):
